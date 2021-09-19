@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Decimal2Octal {
+public class _29_Decimal2Octal {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int n=scan.nextInt();
